@@ -1,8 +1,9 @@
 ## Hi there, I'm Oleksandr Shtonda
 --------------------------------------
 ## My projects:
-   * [ToDo App](https://kunk80110.github.io/todo-app.github.io/): it's app for planning your tasks. You can mark some tasks as complited, delete complited tasks and delete all tasks.
-   * [Weather App](https://kunk80110.github.io/weather-app.github.io/): it's app to watch the weather in you region. You can see the weather in 6 countries: Ukraine, Belarus, Poland, German, Czech and Netherlands. Also you can switch a language in interface.
+   * [Timer App](https://kunk80110.github.io/timer.github.io/): It's an app-timer. You can start timer, stop it and reset it.
+   * [ToDo App](https://kunk80110.github.io/todo-app.github.io/): It's an app for planning your tasks. You can mark some tasks as complited, delete complited tasks and delete all tasks.
+   * [Weather App](https://kunk80110.github.io/weather-app.github.io/): It's an app to watch the weather in you region. You can see the weather in 6 countries: Ukraine, Belarus, Poland, German, Czech and Netherlands. Also you can switch a language in interface.
    * [Grenade Center CSGO](https://kunk80110.github.io/GrenadeCenter.github.io): it is being worked on.
 
 ## About me
