@@ -14,8 +14,7 @@ Born in Kharkiv region, Ukraine. I used to like computers and video-games from c
   * JavaScript
   * React.js
   * Git
-  * Python
-  * Django(in the near future)
+  * Node.js(in the near future)
 
 ### Languages:
   * Ukrainian
