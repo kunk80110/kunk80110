@@ -24,6 +24,5 @@ Born in Kharkiv region, Ukraine. I used to like computers and video-games from c
 
 ### My interests
   * Programming
-  * Sometimes video-games(WarThunder and rarely CS:GO)
   * Reading books about pschyhology and technical materials
   * Military equipment
